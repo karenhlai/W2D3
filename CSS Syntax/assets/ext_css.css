@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 { 
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul li a {
+    list-style: square inside; 
+}
+
+#logo {
+    width: 100px;
+}
